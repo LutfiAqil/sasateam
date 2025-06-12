@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "C:\\\\Users\\\\user\\\\sasateam\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_7c3069ca"
+  },
+  {
+    "name": "associate-company",
+    "path": "/associate-company",
+    "component": "C:\\\\Users\\\\user\\\\sasateam\\\\pages\\\\associate-company.vue",
+    "chunkName": "pages/associate-company",
+    "_name": "_4fab0b61"
+  },
+  {
+    "name": "benefit",
+    "path": "/benefit",
+    "component": "C:\\\\Users\\\\user\\\\sasateam\\\\pages\\\\benefit.vue",
+    "chunkName": "pages/benefit",
+    "_name": "_737c1f2c"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\Users\\\\user\\\\sasateam\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_2c1b0c30"
+  },
+  {
+    "name": "our-client",
+    "path": "/our-client",
+    "component": "C:\\\\Users\\\\user\\\\sasateam\\\\pages\\\\our-client.vue",
+    "chunkName": "pages/our-client",
+    "_name": "_198a1369"
+  },
+  {
+    "name": "services",
+    "path": "/services",
+    "component": "C:\\\\Users\\\\user\\\\sasateam\\\\pages\\\\services.vue",
+    "chunkName": "pages/services",
+    "_name": "_12ca4e9b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\user\\\\sasateam\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21d2c1e5"
+  }
+]
